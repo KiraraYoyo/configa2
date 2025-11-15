@@ -1,5 +1,5 @@
-name:
-repoURL: https://youtu.be/sh-tVul07xg?si=59iI9ggrWx5QuIa0
-mode: admin
-version: 0.1
-maxDepth: yooo
+name: yo
+repoURL: https://registry.npmjs.org
+mode: real
+version: 4.18.2
+maxDepth: 2
