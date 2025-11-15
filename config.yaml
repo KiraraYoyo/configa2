@@ -1,5 +1,5 @@
-name: yo
-repoURL: https://registry.npmjs.org
-mode: real
-version: 4.18.2
-maxDepth: 2
+name: E
+repoURL: 3_test
+mode: test
+version: 0.2
+maxDepth: 3
